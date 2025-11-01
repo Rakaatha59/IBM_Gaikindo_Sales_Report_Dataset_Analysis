@@ -7,7 +7,10 @@ This project focuses on identifying market trends, seasonal fluctuations, and co
 Check out my presentation file about this project:  
 
 
-## Raw Dataset Link  
+## Raw Dataset Link 
+(https://github.com/Rakaatha59/IBM_Gaikindo_Sales_Report_Dataset_Analysis/blob/f3aeb02b73ede24ee980045103ebf23aec42f5ee/Data%20Penjualan.csv)
+(https://github.com/Rakaatha59/IBM_Gaikindo_Sales_Report_Dataset_Analysis/blob/f3aeb02b73ede24ee980045103ebf23aec42f5ee/events.csv)
+https://github.com/Rakaatha59/IBM_Gaikindo_Sales_Report_Dataset_Analysis/blob/f3aeb02b73ede24ee980045103ebf23aec42f5ee/launching.csv
 ---
 
 ## Insight & Findings  

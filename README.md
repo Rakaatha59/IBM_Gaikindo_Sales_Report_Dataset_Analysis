@@ -1,7 +1,7 @@
 # IBM_Gaikindo_Sales_Report_Dataset_Analysis
 ## Car Sales Trend Analysis in Indonesia Using IBM Granite Model
 
-Using the Car Sales Dataset, I aim to explore patterns in automotive sales performance among the top five brands in Indonesia: Toyota, Honda, Mitsubishi, Suzuki, and Daihatsu.  
+Using the Car Sales Dataset, I aim to explore patterns in automotive sales performance among the top five brands in Indonesia; Toyota, Honda, Mitsubishi, Suzuki, and Daihatsu from 2019 -> Today   
 This project focuses on identifying market trends, seasonal fluctuations, and competitive positioning using IBM Granite’s natural language reasoning and analytical capabilities. The goal is to understand which brands perform best over time, detect potential sales cycles, and derive actionable business recommendations from AI-driven insights.
 
 Check out my presentation file about this project:  
